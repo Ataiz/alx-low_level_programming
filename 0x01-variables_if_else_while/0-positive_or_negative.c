@@ -2,9 +2,11 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- *main - main block
- *Description: pick a random number and display if
- *the number is positive, negative or zero.
+ * main - main block
+ * Description: pick a random number and display if
+ * the number is positive, negative or zero.
+ *
+ * Return: Always 0 (Succes)
  */
 int main(void)
 {
