@@ -7,6 +7,8 @@
  * variable n each time it is executed and displays if the last
  * number of n is greater than 5, equals to 0 or less than 6 and
  * not equal to zero
+ *
+ * Return: Always 0 (Succes)
  */
 int main(void)
 {
